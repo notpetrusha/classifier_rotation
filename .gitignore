@@ -1,0 +1,4 @@
+data\synthetic_ru
+data\external\coco_text
+data\processed\coco_text_crops
+data\processed\test_clache_for_paddle
